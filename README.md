@@ -19,5 +19,4 @@ d) utworzone prostokąty dodać do listy,
 e) wypisać pole powierzchni poszczególnych prostokątów, korzystając z listy,
 f) przygotować funkcje (nie metodę), która przyjmie prostokąt jako parametr
 i wypisze długości jego boków i pole powierzchni, do wykonania
-tego skorzysta z metod z klasy, wywołać funkcję dla wszystkich wcze-
-±niej utworzonych prostokątów.
+tego skorzysta z metod z klasy, wywołać funkcję dla wszystkich wcześniej utworzonych prostokątów.
