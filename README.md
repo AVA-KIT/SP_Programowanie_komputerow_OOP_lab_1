@@ -35,6 +35,7 @@ i. rok przestępny to taki, którego liczba określająca rok dzieli się bez re
 c) wersja dla zaawansowanych: ustalić w jaki dzień wypada pierwszy dzień tego miesi¡ca i odpowiednio podpisać dni tygodnia (lub rozpocząć wyświetlanie kalendarza od odpowiedniego dnia).Wykorzysta¢ dzielenie modulo 7 ( x % 7).
 7. Przygotować klasę reprezentującą fgure geometryczną (na chwilą obecną klasa ma przechowywać nazwę i położenie fgury i je wypisywać.
 8. Przygotować klasę reprezentującą planetę, atrybuty wydedukować z poniższej tabeli:
+
 Planeta | odległość od Słońca w j.a. | rzeczywista
 Wulkan  |           0.03             |    false
 Merkury |           0.38             |    true
