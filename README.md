@@ -33,3 +33,17 @@ a) metoda __init__ przyjmuje rok i miesiąc,
 b) metoda pokaz wyświetla odpowiednią liczbę dni w blokach po 7,
 i. rok przestępny to taki, którego liczba określająca rok dzieli się bez reszty przez 4, ale nie dzieli się bez reszty przez 100, ale dzieli się bez reszty przez 400,
 c) wersja dla zaawansowanych: ustalić w jaki dzień wypada pierwszy dzień tego miesi¡ca i odpowiednio podpisać dni tygodnia (lub rozpocząć wyświetlanie kalendarza od odpowiedniego dnia).Wykorzysta¢ dzielenie modulo 7 ( x % 7).
+7. Przygotować klasę reprezentującą fgure geometryczną (na chwilą obecną klasa ma przechowywać nazwę i położenie fgury i je wypisywać.
+8. Przygotować klasę reprezentującą planetę, atrybuty wydedukować z poniższej tabeli:
+Planeta | odległość od Słońca w j.a. | rzeczywista
+Wulkan  |           0.03             |    false
+Merkury |           0.38             |    true
+Wenus   |           0.72             |    true
+Ziemia  |           1.0              |    true
+Mars    |           1.52             |    true
+Faeton  |           2.7              |    false
+Jowisz  |           5.2              |    true
+Saturn  |           9.53             |    true
+Uran    |          19.19             |    true
+Neptun  |          30.06             |    true
+Pluton  |          39.48             |  false/true
