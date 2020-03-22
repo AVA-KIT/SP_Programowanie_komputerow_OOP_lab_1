@@ -21,3 +21,15 @@ f) przygotować funkcje (nie metodę), która przyjmie prostokąt jako parametr 
 tego skorzysta z metod z klasy, wywołać funkcję dla wszystkich wcześniej utworzonych prostokątów.
 4. Przygotować klasę do obsługi tekstowego paska postępu (ang. ProgressBar). 
 Oprócz inicjacji dowolną wartością i wartością maksymalną, klasa ma umożliwiać dodawanie, odejmowanie i wypisywanie wartości (jako metody). Powinna również umożliwiać wypisanie wartości przechowywanej i wartości maksymalnej i uniemożliwienie zmiany w przypadku wyjjcia poza ustalony przy tworzeniu obiektu zakres. Proszę zademonstrować działanie na dwóch paskach zmienianych i wyświetlanych w pętli.
+5. Przygotować klasę do prostych obliczeń statystycznych (można ją nazwać Statystyka).
+a) inicjalizacja przy pomocy listy,
+b) metoda zwracająca wartość sumy całej listy (można zrobić wariant pozwalający na obliczanie sumy fragmentu listy),
+c) metoda obliczająca średnią (suma/liczbę elementów), metoda powinna skorzystać z poprzedniej metody,
+d) metoda obliczająca medianę (Dla listy uporzadkowanej jest to wartość, która jest w połowie listy w wypadku nieparzystej liczby elementów. Dla parzystej liczby elementów - średnia arytmetyczna dwóch środkowych liczb). W związku z tym trzeba skorzystać z funkcji sorted.
+e) metoda obliczająca minimum,
+f) metoda obliczająca maximum. Wykonać testy wszystkich metod na co najmniej 3 listach po co najmniej 5-6 warto±ci.
+6. Przygotować klasy reprezentującą kalendarz na dany miesiąc.
+a) metoda __init__ przyjmuje rok i miesiąc,
+b) metoda pokaz wyświetla odpowiednią liczbę dni w blokach po 7,
+i. rok przestępny to taki, którego liczba określająca rok dzieli się bez reszty przez 4, ale nie dzieli się bez reszty przez 100, ale dzieli się bez reszty przez 400,
+c) wersja dla zaawansowanych: ustalić w jaki dzień wypada pierwszy dzień tego miesi¡ca i odpowiednio podpisać dni tygodnia (lub rozpocząć wyświetlanie kalendarza od odpowiedniego dnia).Wykorzysta¢ dzielenie modulo 7 ( x % 7).
