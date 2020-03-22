@@ -17,6 +17,7 @@ b) napisać metodę zwracając¡ pole powierzchni,
 c) utworzyć trzy prostokąty,
 d) utworzone prostokąty dodać do listy,
 e) wypisać pole powierzchni poszczególnych prostokątów, korzystając z listy,
-f) przygotować funkcje (nie metodę), która przyjmie prostokąt jako parametr
-i wypisze długości jego boków i pole powierzchni, do wykonania
+f) przygotować funkcje (nie metodę), która przyjmie prostokąt jako parametr i wypisze długości jego boków i pole powierzchni, do wykonania
 tego skorzysta z metod z klasy, wywołać funkcję dla wszystkich wcześniej utworzonych prostokątów.
+4. Przygotować klasę do obsługi tekstowego paska postępu (ang. ProgressBar). 
+Oprócz inicjacji dowolną wartością i warto±ścią maksymalną, klasa ma umożliwiać dodawanie, odejmowanie i wypisywanie wartości (jako metody). Powinna również umożliwiać wypisanie wartości przechowywanej i wartości maksymalnej i uniemożliwienie zmiany w przypadku wyjjcia poza ustalony przy tworzeniu obiektu zakres. Proszę zademonstrować działanie na dwóch paskach zmienianych i wyświetlanych w pętli.
