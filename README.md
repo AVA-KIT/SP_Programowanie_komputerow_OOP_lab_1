@@ -61,7 +61,4 @@ Neptun  |          30.06             |    true
 Pluton  |          39.48             |  false/true
 
 Utworzyć listę, przechować w niej wszystkie planety z powyższej tabeli. j.a. - jednostka astronomiczna to 149 597 870 700 m. 
-W przybliżeniu średnia odległość Ziemi od Słońca. Wyświetlić listę planet, odległość od Słońca podając w tys. kilometrów. Jakie pytanie powinno paść przy ostatniej pozycji w tabelce (Pluton)? Wyświetlić jeszcze dwie listy planet: rzeczywiste i nie. Zapisać do pliku (Przykładowy kod do obsłgi plików na na ko«cu listy zada«).
-Nast¦pnie dorobi¢ odczyt danych z pliku i zast¡pi¢ nim cz¦±¢ tworz¡c¡ obiekty
-(obiekty maj¡ by¢ tworzone z pliku). Czy obsªuga obiektów w ten sposób
-jest wygodna?
+W przybliżeniu średnia odległość Ziemi od Słońca. Wyświetlić listę planet, odległość od Słońca podając w tys. kilometrów. Jakie pytanie powinno paść przy ostatniej pozycji w tabelce (Pluton)? Wyświetlić jeszcze dwie listy planet: rzeczywiste i nie. Zapisać do pliku (Przykładowy kod do obsłgi plików na na końcu listy zadań). Następnie dorobić odczyt danych z pliku i zastąpić nim część tworzącą obiekty (obiekty mają być tworzone z pliku). Czy obsługa obiektów w ten sposób jest wygodna?
