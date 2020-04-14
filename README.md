@@ -80,4 +80,4 @@ d) lbs na kg,
 1 cm - 0.393700787 cal;
 1 cal - 2.54 cm.
 
-Czy to powinna być typowa klasa zawierająca metodę __init__, czy może należy wykonać ją inaczej. Przetestować wszystkie konwersje na kilku różnych danych wejściowych.
+Czy to powinna być typowa klasa zawierająca metodę __init__, czy może należy wykonać ją inaczej? Przetestować wszystkie konwersje na kilku różnych danych wejściowych.
