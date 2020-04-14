@@ -66,12 +66,18 @@ Utworzyć listę, przechować w niej wszystkie planety z powyższej tabeli. j.a.
 W przybliżeniu średnia odległość Ziemi od Słońca. Wyświetlić listę planet, odległość od Słońca podając w tys. kilometrów. Jakie pytanie powinno paść przy ostatniej pozycji w tabelce (Pluton)? Wyświetlić jeszcze dwie listy planet: rzeczywiste i nie. Zapisać do pliku (Przykładowy kod do obsłgi plików na na końcu listy zadań). Następnie dorobić odczyt danych z pliku i zastąpić nim część tworzącą obiekty (obiekty mają być tworzone z pliku). Czy obsługa obiektów w ten sposób jest wygodna?
 
 9. Przygotować klasę udostępniającą metody konwersji jednostek:
+
 a) cali na cm,
+
 b) cm na cale,
+
 c) kg na lbs (funty),
+
 d) lbs na kg,
+
 1 lbs - 0.45359237 kg
 1 kg - 2.20462262 lbs
 1 cm - 0.393700787 cal
 1 cal - 2.54 cm
+
 Czy to powinna być typowa klasa zawierająca metodę __init__, czy może należy wykonać ją inaczej. Przetestować wszystkie konwersje na kilku różnych danych wejściowych.
